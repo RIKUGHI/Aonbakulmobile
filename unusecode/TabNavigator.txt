@@ -1,0 +1,6 @@
+      <Tab.Navigator>
+        <Tab.Screen name="Beranda" component={HomeScreen} />
+        <Tab.Screen name="Kelola" component={KelolaScreen} />
+        <Tab.Screen name="Detail" component={HomeScreen} />
+        <Tab.Screen name="Akun" component={AccountScreen} />
+      </Tab.Navigator>

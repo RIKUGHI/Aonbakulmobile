@@ -1,0 +1,13 @@
+    {/* <Stack.Navigator initialRouteName="Home">
+        <Stack.Screen
+          name="Home"
+          component={HomeScreen}
+          options={{title: 'Overview'}}
+        />
+        <Stack.Screen name="Detail" component={DetailsScreen} />
+        <Stack.Screen
+          name="Detail"
+          component={DetailsScreen}
+          initialParams={{itemId: 42}}
+        />
+      </Stack.Navigator> */}

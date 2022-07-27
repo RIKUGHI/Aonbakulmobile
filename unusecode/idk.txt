@@ -1,0 +1,12 @@
+{/* <Text>Home Screen</Text>
+        <Text style={style.text}>Halo semua saya homescreen</Text> */}
+        {/* <Button
+          title="Go to Details"
+          onPress={() => {
+            navigation.navigate('Detail', {
+              itemId: 86,
+              otherParam: 'anything you want here',
+            });
+          }}
+        /> */}
+        {/* <FontAwesomeIcon icon={faUser} /> */}
